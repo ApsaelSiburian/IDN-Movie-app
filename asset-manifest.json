@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-search-flim/static/css/main.77e539da.css",
+    "main.js": "/app-search-flim/static/js/main.a8253487.js",
+    "index.html": "/app-search-flim/index.html",
+    "main.77e539da.css.map": "/app-search-flim/static/css/main.77e539da.css.map",
+    "main.a8253487.js.map": "/app-search-flim/static/js/main.a8253487.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e539da.css",
+    "static/js/main.a8253487.js"
+  ]
+}
