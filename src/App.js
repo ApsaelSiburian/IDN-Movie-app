@@ -5,7 +5,14 @@ import RegistrationForm from './components/RegistrationForm';
 import UserProfile from './components/UserProfile';
 import "./App.css";
 
-const API_URL = 'https://www.omdbapi.com?apikey=dd5ae328';
+const API_URL = 'https://www.omdbapi.com';
+const apiKey = 'dd5ae328';
+const searchMovies = async (title) => {
+  const url = `${API_URL}?apikey=${apiKey}&s=${title}`;
+  console.log(`Fetching from URL: ${url}`);
+  //...
+};
+
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
