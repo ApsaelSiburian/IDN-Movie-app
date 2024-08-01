@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/app-search-flim/static/css/main.77e539da.css",
-    "main.js": "/app-search-flim/static/js/main.a8253487.js",
-    "index.html": "/app-search-flim/index.html",
-    "main.77e539da.css.map": "/app-search-flim/static/css/main.77e539da.css.map",
-    "main.a8253487.js.map": "/app-search-flim/static/js/main.a8253487.js.map"
+    "main.css": "/IDN-Movie-app/static/css/main.77e539da.css",
+    "main.js": "/IDN-Movie-app/static/js/main.899ba673.js",
+    "index.html": "/IDN-Movie-app/index.html",
+    "main.77e539da.css.map": "/IDN-Movie-app/static/css/main.77e539da.css.map",
+    "main.899ba673.js.map": "/IDN-Movie-app/static/js/main.899ba673.js.map"
   },
   "entrypoints": [
     "static/css/main.77e539da.css",
-    "static/js/main.a8253487.js"
+    "static/js/main.899ba673.js"
   ]
 }
